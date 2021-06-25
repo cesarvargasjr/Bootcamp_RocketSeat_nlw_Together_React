@@ -9,5 +9,3 @@ export function Button ( props: ButtonProps ) {
         <button className = "button" {...props}/>
     )
 }
-
-
