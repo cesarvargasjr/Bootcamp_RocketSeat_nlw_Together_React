@@ -15,9 +15,9 @@ type FirebaseQuestions = Record<string, {
     }>
   }>
   
-  type RoomParams = {
+  /*type RoomParams = {
     id: string;
-  }
+  }*/
 
 type QuestionType = {
     id: string;
