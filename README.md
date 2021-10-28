@@ -5,4 +5,4 @@ a pessoa que está administrando a live na hora de responder as dúvidas e pergu
 
 ## Tecnologias
 
-JavaScrip / React / HTML / CSS
+TypeScrip / React / HTML / CSS
